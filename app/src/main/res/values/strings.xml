@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Math Bubbles</string>
+    <string name="main_menu_settings">Settings</string>
+    <string name="main_menu_score_board">Score Board</string>
+    <string name="main_menu_play">Play</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_hard">Hard</string>
+    <string name="enter_name_to_add_score_to_score_board">Enter name to add score to score board. Press back to return to Main Menu</string>
+
+    <string name="instructionsP1">This is a very simple Math Game directed at middle and high school students.
+        The game challenges and builds students cognitive ability by solving a simple math question, locating
+        the moving answer and selecting it within a given amount of time. The speed of the moving answers
+        increases every time a student selects the correct answer.
+    </string>
+    <string name="instructionsP2">
+        The game begins with a 3 second count down. The student has a limited amount of time to select
+        the bubble containing the answer depending on the difficulty set in the settings. If bubbles overlap than give the phone a shake and the bubbles will disperse.
+        When a player eventually runs out of time, he is given a chance to save his score to a leaderboard and to
+        share on twitter.
+    </string>
+    <string name="main_menu_instructions">Instructions</string>
+    <string name="your_score_label">Your Score!</string>
+
+    <string-array name="settingsPrefDifficultyList_entries">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+
+    </string-array>
+
+    <string-array name="settingsPrefDifficultyList_values">
+        <item>EASY</item>
+        <item>MEDIUM</item>
+        <item>HARD</item>
+
+    </string-array>
+
+</resources>

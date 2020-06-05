@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gameScreenTextSize">20sp</dimen>
+    <dimen name="gameScreenQuestionTextSize">40sp</dimen>
+    <dimen name="instructionsTextSize">20sp</dimen>
+    <dimen name="instructionsTitleTextSize">25sp</dimen>
+
+    <dimen name="gameOverScoreLabelTextSize">30sp</dimen>
+    <dimen name="gameOverScoreTextSize">60sp</dimen>
+
+</resources>

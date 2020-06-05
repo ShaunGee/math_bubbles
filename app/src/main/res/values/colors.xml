@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="mainThemebackground">#FF5722</color>
+    <color name="button_outline">#03DAC5</color>
+    <color name="question_colour_ingame">#77D6CD</color>
+
+</resources>

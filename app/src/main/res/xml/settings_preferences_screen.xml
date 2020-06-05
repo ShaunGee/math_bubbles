@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+
+
+    <ListPreference
+        app:key="difficulty"
+        app:title="Game Difficulty"
+        app:entries="@array/settingsPrefDifficultyList_entries"
+        app:entryValues="@array/settingsPrefDifficultyList_values"
+        app:defaultValue="easy"
+        app:summary="Select Game Difficulty"/>
+
+    <Preference
+        app:key="clearLeaderBoard"
+        app:title="Clear LeaderBoard"
+        app:summary="Erases current Leader Board"/>
+
+</PreferenceScreen>
